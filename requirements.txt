@@ -1,0 +1,6 @@
+streamlit
+pandas
+docx2txt
+PIL
+PyPDF2
+pdfplumber
